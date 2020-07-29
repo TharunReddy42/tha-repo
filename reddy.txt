@@ -1,2 +1,4 @@
  new file
 yes file added
+it doing trouble
+do with conflicl  tool
